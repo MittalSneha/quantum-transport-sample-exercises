@@ -5,7 +5,7 @@ This repository contains **representative sample exercises**.
 
 ## Objective
 
-The repositary aims to provide a unified framework for understanding, modeling, and designing nanoscale and molecular electronic devices using:
+The repository aims to provide a unified framework for understanding, modeling, and designing nanoscale and molecular electronic devices using:
 
 - Quantum transport theory  
 - Green’s function and NEGF methods  
