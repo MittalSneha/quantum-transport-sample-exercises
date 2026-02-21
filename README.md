@@ -1,7 +1,7 @@
 # Quantum Transport – Sample Exercises
 
 This repository contains **representative sample exercises**.
----
+
 
 ## Objective
 
@@ -13,7 +13,6 @@ The repository aims to provide a unified framework for understanding, modeling, 
 
 A primary learning outcome is to enable students to **develop simple computational programs** for calculating electronic transport through nanoscale systems using **tight-binding and Green’s function approaches**.
 
----
 
 ## Repository Scope
 
