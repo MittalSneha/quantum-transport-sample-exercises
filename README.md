@@ -11,8 +11,6 @@ The repository aims to provide a unified framework for understanding, modeling, 
 - Green’s function and NEGF methods  
 - Atomistic and tight-binding simulations  
 
-A primary learning outcome is to enable students to **develop simple computational programs** for calculating electronic transport through nanoscale systems using **tight-binding and Green’s function approaches**.
-
 
 ## Repository Scope
 
